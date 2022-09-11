@@ -26,6 +26,18 @@ About my person skills: I am reliable and quite independent in carrying out the 
  - Gradle/Maven
  - OOP
 
+## Code Example
+Simple class with one function which returns sum of two digits wrote in Java.
+```
+public class CodeExample {
+
+    public static double sum(double a, double b) {
+        return a + b;
+    }
+
+}
+```
+
 ## Experience
 - 06.2019 - 02.2022 - Junior QA Engineer at [Kaspi.kz](https://kaspi.kz) (Integration team)
 - 02.2022 - Software Developer at [Kaspi.kz](https://kaspi.kz) (Integration team)
